@@ -1,6 +1,6 @@
 # GridWorldMDP
 Grid-World MDP Streamlit App
 
-To access and run the Grid-World MDP application, please open your web browser and navigate to the following URL:
-  Local URL: http://localhost:8501
-  Network URL: http://10.252.19.117:8501
+The Streamlit application was deployed using Streamlit Community Cloud. The application is accessible through a public URL, allowing the results to be viewed online
+https://gridworldmdp-2ux7gb4rvzjwxzehf45yn5.streamlit.app/
+
